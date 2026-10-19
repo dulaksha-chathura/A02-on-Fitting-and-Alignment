@@ -1,0 +1,27 @@
+# Dataset and Image Files (Saves data bandwidth)
+a2images/
+pcbs/
+*.jpg
+*.jpeg
+*.png
+*.zip
+
+# Model Weights & Checkpoints
+*.pth
+*.pt
+*.onnx
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.pyc
+env*/
+venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS / Editor Specific Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
